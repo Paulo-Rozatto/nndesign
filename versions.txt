@@ -1,3 +1,4 @@
 Python 3.10.6
 pip-23.0
 matplotlib-3.6.3
+opencv_contrib_python-4.7.0.68

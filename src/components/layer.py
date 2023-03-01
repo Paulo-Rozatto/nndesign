@@ -23,7 +23,7 @@ class Layer:
                 result.append(self._activation[i](product[i]))
         else:
             for prod in product: 
-                result.append(self._activation(prod[0]))
+                result.append(self._activation(prod))
 
         return result
     
